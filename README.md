@@ -23,6 +23,7 @@ Note Taker is an application that allows the user to enter notes into their devi
 ## Installation
 
 The application is deployed on Heroku and can be launched from the browser by clinking on the link.
+[Link](https://git.heroku.com/aqueous-inlet-00393.git)
 
 ## Usage
 
@@ -47,7 +48,7 @@ No standardized testing was performed in the creation of this application.
 
 ## GitHub
 
-https://www.github.com/josephbrimeyer/readme-generator/
+https://www.github.com/josephbrimeyer/note-taker/
 
 ## Email
 
