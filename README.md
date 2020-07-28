@@ -23,7 +23,7 @@ Note Taker is an application that allows the user to enter notes into their devi
 ## Installation
 
 The application is deployed on Heroku and can be launched from the browser by clicking on the link.
-[Link](https://git.heroku.com/aqueous-inlet-00393.git)
+[Link](https://aqueous-inlet-00393.herokuapp.com/)
 
 ## Usage
 
